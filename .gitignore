@@ -2,3 +2,4 @@
 /.fleet
 windows10/system_report.log
 system_info/system_report.log
+network_info/network_report.log
